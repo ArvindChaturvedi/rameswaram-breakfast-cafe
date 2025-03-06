@@ -19,4 +19,5 @@ export default defineConfig(({ mode }) => ({
       "@": path.resolve(__dirname, "./src"),
     },
   },
+  base: '/rameswaram-breakfast-cafe/',  // Replace with your repository name
 }));
